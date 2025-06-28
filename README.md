@@ -46,17 +46,35 @@ Here, you’ll find some of my favorite projects, showcasing my skills in buildi
 
 ## 📂 Featured Projects
 
-Here are some of my favorite or ongoing projects:
+Here are some of my favorite projects:
 
-### 🎮 [Minecraft Server Guide](https://davetron4.github.io/Minecraft-Server-Guide/)
-A web guide to setting up a free Minecraft 1.18.2 modded server with Playit.gg tunneling and Forge modding using Ubuntu Server.
+### 🔐 QR Code Generator Web App
+- **Description:** A feature-rich web app that generates customizable QR codes for vCards, Wi-Fi credentials, calendar events, and links. Users can personalize QR code colors and shapes.  
+- **Technologies Used:** HTML, CSS, JavaScript, Python, Flask  
+- **What I Learned:** Gained experience in handling user input, file management, HTTP requests, and building RESTful APIs.  
+- **Key Features:**  
+  - Generates multiple types of QR codes (vCards, Wi-Fi, calendar events, links).  
+  - Allows users to edit QR code colors and shapes for customization.
 
-### ☀️ Weather App
-A mobile weather app created using Flutter.
+### 🏢 Employee Management System
+- **Description:** A collaborative project developed for my Software Development class. This system helps manage employees, including adding, updating, and deleting employee information.  
+- **Technologies Used:** Spring Boot, Java, React, HTML, CSS, Bootstrap, Git  
+- **What I Learned:**  
+  - Worked effectively in a team environment and practiced Agile principles.  
+  - Followed Object-Oriented Programming (OOP) principles and implemented software development best practices.  
+- **Key Features:**  
+  - Full CRUD (Create, Read, Update, Delete) functionality for employee records.  
+  - Responsive UI built with React and Bootstrap.  
 
-### 🔐 QR Code Generator App
-A web app that generates vCard, Wi-Fi, and Event QR codes with embedded logos and custom shapes.
-
+### 💪 Spotter Zone
+- **Description:** A social platform for fitness enthusiasts to share workout-related posts, comment, and like posts. Developed as the final project for my CodePath Intermediate Web Development course.  
+- **Technologies Used:** React, HTML, CSS, Bootstrap, JavaScript, Supabase  
+- **What I Learned:**  
+  - Implemented user authentication and authorization to restrict certain actions to logged-in users only.  
+  - Improved my skills in building dynamic front-end applications and integrating with a backend service.  
+- **Key Features:**  
+  - Users can create posts, comment, and like posts.  
+  - Authentication system ensures secure access for logged-in users.
 ---
 
 ## 📈 GitHub Stats
