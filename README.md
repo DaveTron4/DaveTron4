@@ -91,10 +91,10 @@ Here are some of my favorite projects:
 
 I’m always excited to connect with like-minded individuals, collaborate on projects, or just chat about tech! Feel free to reach out:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/david-salas-carrascal-650170254/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-salas-carrascal/)
 - 📧 Email: davidtnt970@gmail.com
 
 ---
 
-_“Strive not to be a success, but rather to be of value.” – Albert Einstein_
+_“Repetition is the path to mastery” – Zenyatta_
 
