@@ -101,20 +101,20 @@
 
 ## 📂 Featured Projects
 
-### 🔐 **QR Code Generator** | [GitHub](https://github.com/DaveTron4/QR-Code-Generator) | [Live Site](https://your-livesite-url.com)
+### 🔐 **QR Code Generator** | [GitHub](https://github.com/DaveTron4/QR_Code) | [Live Site](https://qr-code-yuwx.onrender.com/)
 * **Tech Stack:** `Python`, `Flask`, `JavaScript`, `HTML/CSS`
 * Built a Flask-based web application that generated over 10 unique QR codes using Python libraries (`qrcode`, `Pillow`).
 * Designed a responsive HTML/CSS frontend, reducing QR code rendering time by **10%** for a seamless user experience.
 * Implemented per-session file management to isolate data and automate cleanup, improving system efficiency by **90%**.
 * Refactored backend logic with reusable helper functions, cutting redundant code by **50%** and increasing maintainability.
 
-### 💪 **The Spotter Zone** | [GitHub](https://github.com/DaveTron4/SpotterZone) | [Live Site](https://your-livesite-url.com)
+### 💪 **The Spotter Zone** | [GitHub](https://github.com/DaveTron4/The-Spotter-Zone) | [Live Site](https://thespotterzone.netlify.app/)
 * **Tech Stack:** `React`, `JavaScript`, `Supabase`, `PostgreSQL`, `Bootstrap`
 * Developed a responsive single-page application supporting 10+ users with dynamic routing via React Hooks and React Router.
 * Integrated Supabase Auth for secure user authentication and managed real-time data with a PostgreSQL backend.
 * Deployed the frontend on Netlify with CI/CD workflows, reducing deployment time by **30%** and ensuring consistent version control.
 
-### 🏢 **Employee Management System** | [GitHub](https://github.com/DaveTron4/EmployeeManagementSystem)
+### 🏢 **Employee Management System** | [GitHub](https://github.com/DaveTron4/employee-management-system)
 * **Tech Stack:** `Java`, `Spring Boot`, `React`, `MySQL`, `Bootstrap`
 * Led a team of 4 to develop an enterprise-ready system, streamlining data management through a responsive React frontend.
 * Designed and implemented a Java Spring Boot RESTful API to enable secure and efficient communication with a MySQL database.
