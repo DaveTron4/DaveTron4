@@ -27,10 +27,10 @@
 
 ## 🚀 About Me
 
-- 🎓   **Education:** Senior in Computer Science at **Georgia State University**.
-- 💻   **Interests:** Full-Stack Software Engineering & Cybersecurity.
-- 🌱   **Currently:** Sharpening my skills in cloud security and advanced penetration testing techniques.
-- 💼   **Status:** **CodePath Tech Fellow** | Actively seeking **Full-Time** and **Internship** roles in Software Engineering.
+- 🎓    **Education:** Senior in Computer Science at **Georgia State University**.
+- 💻    **Interests:** Full-Stack Software Engineering & Cybersecurity.
+- 🌱    **Currently:** Sharpening my skills in cloud security and advanced penetration testing techniques.
+- 💼    **Status:** **CodePath Tech Fellow** | Actively seeking **Full-Time** and **Internship** roles in Software Engineering.
 
 ---
 
@@ -91,7 +91,7 @@
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
       <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
-      <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+      <img src="httpsT://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
       <img src="https://img.shields.io/badge/Snort-E32225?style=for-the-badge&logo=snort&logoColor=white" alt="Snort"/>
     </td>
   </tr>
@@ -101,12 +101,18 @@
 
 ## 📂 Featured Projects
 
-### 🔐 **QR Code Generator** | [GitHub](https://github.com/DaveTron4/QR_Code) | [Live Site](https://qr-code-yuwx.onrender.com/)
-* **Tech Stack:** `Python`, `Flask`, `JavaScript`, `HTML/CSS`
-* Built a Flask-based web application that generated over 10 unique QR codes using Python libraries (`qrcode`, `Pillow`).
-* Designed a responsive HTML/CSS frontend, reducing QR code rendering time by **10%** for a seamless user experience.
-* Implemented per-session file management to isolate data and automate cleanup, improving system efficiency by **90%**.
-* Refactored backend logic with reusable helper functions, cutting redundant code by **50%** and increasing maintainability.
+### 🏢 **Employee Management System** | [GitHub](https://github.com/DaveTron4/employee-management-system)
+* **Tech Stack:** `Java`, `Spring Boot`, `React`, `MySQL`, `Bootstrap`
+* Led a team of 4 to develop an enterprise-ready system, streamlining data management through a responsive React frontend.
+* Designed and implemented a Java Spring Boot RESTful API to enable secure and efficient communication with a MySQL database.
+* Applied clean architecture principles and Git/GitHub for version control, delivering a highly maintainable and scalable solution.
+
+### ☕ **Coffee Canvas** | [GitHub](https://github.com/DaveTron4/WEB103-Project-4-Coffee-Canvas) 
+* **Tech Stack:** `React`, `Express.js`, `PostgreSQL`, `JavaScript`, `CSS`
+* Developed a full-stack coffee customization platform (**React**, **Express.js**, **PostgreSQL**) enabling users to create, save, edit, and delete (Full CRUD) custom drink recipes.
+* Engineered complex frontend logic, including a **dynamic real-time price calculator** and **intelligent form validation** that conditionally disables incompatible options (e.g., roast type for espresso).
+* Designed and debugged the **Express.js RESTful API**, resolving critical 404 errors in update controllers and correcting malformed **SQL** (INSERT/UPDATE) statements to ensure data persistence.
+* Implemented dynamic CSS theming that instantly transforms the app's visual identity (from "hot" to "iced" themes) based on user selection.
 
 ### 💪 **The Spotter Zone** | [GitHub](https://github.com/DaveTron4/The-Spotter-Zone) | [Live Site](https://thespotterzone.netlify.app/)
 * **Tech Stack:** `React`, `JavaScript`, `Supabase`, `PostgreSQL`, `Bootstrap`
@@ -114,11 +120,20 @@
 * Integrated Supabase Auth for secure user authentication and managed real-time data with a PostgreSQL backend.
 * Deployed the frontend on Netlify with CI/CD workflows, reducing deployment time by **30%** and ensuring consistent version control.
 
-### 🏢 **Employee Management System** | [GitHub](https://github.com/DaveTron4/employee-management-system)
-* **Tech Stack:** `Java`, `Spring Boot`, `React`, `MySQL`, `Bootstrap`
-* Led a team of 4 to develop an enterprise-ready system, streamlining data management through a responsive React frontend.
-* Designed and implemented a Java Spring Boot RESTful API to enable secure and efficient communication with a MySQL database.
-* Applied clean architecture principles and Git/GitHub for version control, delivering a highly maintainable and scalable solution.
+### 🔐 **QR Code Generator** | [GitHub](https://github.com/DaveTron4/QR_Code) | [Live Site](https://qr-code-yuwx.onrender.com/)
+* **Tech Stack:** `Python`, `Flask`, `JavaScript`, `HTML/CSS`
+* Built a Flask-based web application that generated over 10 unique QR codes using Python libraries (`qrcode`, `Pillow`).
+* Designed a responsive HTML/CSS frontend, reducing QR code rendering time by **10%** for a seamless user experience.
+* Implemented per-session file management to isolate data and automate cleanup, improving system efficiency by **90%**.
+* Refactored backend logic with reusable helper functions, cutting redundant code by **50%** and increasing maintainability.
+
+---
+
+## 🏗️ Currently Working On
+
+### 🗓️ **Calendar Sync**
+* **Tech Stack:** `[Your Tech Stack Here, e.g., React, Node.js, Google Calendar API]`
+* Developing a full-stack application to provide a unified calendar view. The app will feature **two-way synchronization** with external services like Google Calendar and Apple Calendar, allowing users to create, view, and manage all their events from a single interface.
 
 ---
 
