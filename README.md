@@ -132,7 +132,7 @@
 ## 🏗️ Currently Working On
 
 ### 🗓️ **Calendar Sync**
-* **Tech Stack:** `[Your Tech Stack Here, e.g., React, Node.js, Google Calendar API]`
+* **Tech Stack:** `[In Progress]`
 * Developing a full-stack application to provide a unified calendar view. The app will feature **two-way synchronization** with external services like Google Calendar and Apple Calendar, allowing users to create, view, and manage all their events from a single interface.
 
 ---
