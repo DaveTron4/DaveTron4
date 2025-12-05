@@ -21,6 +21,9 @@
   <a href="mailto:davidtnt970@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://davidsalascarrascal.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
@@ -101,31 +104,23 @@
 
 ## 📂 Featured Projects
 
-### 🏢 **Employee Management System** | [GitHub](https://github.com/DaveTron4/employee-management-system)
-* **Tech Stack:** `Java`, `Spring Boot`, `React`, `MySQL`, `Bootstrap`
-* Led a team of 4 to develop an enterprise-ready system, streamlining data management through a responsive React frontend.
-* Designed and implemented a Java Spring Boot RESTful API to enable secure and efficient communication with a MySQL database.
-* Applied clean architecture principles and Git/GitHub for version control, delivering a highly maintainable and scalable solution.
+### 🏀 **FanAssist** (Hackathon) | [GitHub](https://github.com/ibeeeees/FanAssist)
+* **Tech Stack:** `React`, `TypeScript`, `FastAPI`, `AWS Bedrock`, `Tailwind CSS`, `Python`
+* Developed a "Next-Gen Game Flow" platform featuring a **Demons & Goblins** modifier system, allowing users to toggle risk/reward parameters for real-time payout multiplier adjustments.
+* Engineered a hybrid simulation engine using **Python (NumPy/Pandas)** and Monte Carlo methods to predict NBA player performance across 10,000+ game scenarios.
+* Integrated **AWS Bedrock** to generate beginner-friendly, natural language explanations of complex betting odds and player statistics.
 
-### ☕ **Coffee Canvas** | [GitHub](https://github.com/DaveTron4/WEB103-Project-4-Coffee-Canvas) 
-* **Tech Stack:** `React`, `Express.js`, `PostgreSQL`, `JavaScript`, `CSS`
-* Developed a full-stack coffee customization platform (**React**, **Express.js**, **PostgreSQL**) enabling users to create, save, edit, and delete (Full CRUD) custom drink recipes.
-* Engineered complex frontend logic, including a **dynamic real-time price calculator** and **intelligent form validation** that conditionally disables incompatible options (e.g., roast type for espresso).
-* Designed and debugged the **Express.js RESTful API**, resolving critical 404 errors in update controllers and correcting malformed **SQL** (INSERT/UPDATE) statements to ensure data persistence.
-* Implemented dynamic CSS theming that instantly transforms the app's visual identity (from "hot" to "iced" themes) based on user selection.
+### 🌱 **Room To Grow** (Hackathon) | [GitHub](https://github.com/DaveTron4/room-to-grow) | [Live Site](https://www.roomtogrow.fit)
+* **Tech Stack:** `React 19`, `TypeScript`, `Node.js`, `MongoDB`, `OpenRouter`, `Framer Motion`
+* Architected a full-stack AI tutoring platform integrating **OpenRouter** to aggregate 6+ Large Language Models (including Gemini & Claude) for dynamic model switching.
+* Implemented a content generation engine that parses chat context into structured **JSON** to automatically create personalized flashcards and quizzes for students.
+* Integrated computer vision pipelines to analyze user-uploaded diagrams and provided **real-time streaming** responses to enhance the interactive learning experience.
 
-### 💪 **The Spotter Zone** | [GitHub](https://github.com/DaveTron4/The-Spotter-Zone) | [Live Site](https://thespotterzone.netlify.app/)
-* **Tech Stack:** `React`, `JavaScript`, `Supabase`, `PostgreSQL`, `Bootstrap`
-* Developed a responsive single-page application supporting 10+ users with dynamic routing via React Hooks and React Router.
-* Integrated Supabase Auth for secure user authentication and managed real-time data with a PostgreSQL backend.
-* Deployed the frontend on Netlify with CI/CD workflows, reducing deployment time by **30%** and ensuring consistent version control.
-
-### 🔐 **QR Code Generator** | [GitHub](https://github.com/DaveTron4/QR_Code) | [Live Site](https://qr-code-yuwx.onrender.com/)
-* **Tech Stack:** `Python`, `Flask`, `JavaScript`, `HTML/CSS`
-* Built a Flask-based web application that generated over 10 unique QR codes using Python libraries (`qrcode`, `Pillow`).
-* Designed a responsive HTML/CSS frontend, reducing QR code rendering time by **10%** for a seamless user experience.
-* Implemented per-session file management to isolate data and automate cleanup, improving system efficiency by **90%**.
-* Refactored backend logic with reusable helper functions, cutting redundant code by **50%** and increasing maintainability.
+### ✅ **TaskMate AI** | [GitHub](https://github.com/DaveTron4/taskmate-ai) | [Live Site](https://taskmate-ai-ef8u.onrender.com/)
+* **Tech Stack:** `React`, `Express.js`, `PostgreSQL`, `OpenAI API`, `GitHub OAuth`
+* Architected a productivity application utilizing **OpenAI's API** to parse natural language inputs into structured tasks, achieving **95% intent recognition accuracy**.
+* Engineered a high-performance **PostgreSQL** database on Render with optimized SQL indexing, reducing query latency by **40%**.
+* Designed a secure authentication flow using **GitHub OAuth** and a dynamic frontend with drag-and-drop prioritization, increasing task completion rates by **25%**.
 
 ---
 
