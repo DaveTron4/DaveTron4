@@ -133,7 +133,7 @@
 
 ### 🗓️ **Calendar Sync**
 * **Tech Stack:** `[In Progress]`
-* Developing a full-stack application to provide a unified calendar view. The app will feature **two-way synchronization** with external services like Google Calendar and Apple Calendar, allowing users to create, view, and manage all their events from a single interface.
+* Developing a full-stack application to provide a unified calendar view. The app will feature **two-way synchronization** with external services like Google Calendar and Apple Calendar, allowing users to create, view, and manage all their events from a single interface. 
 
 ---
 
