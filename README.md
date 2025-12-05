@@ -128,7 +128,11 @@
 
 ### 🗓️ **Calendar Sync**
 * **Tech Stack:** `[In Progress]`
-* Developing a full-stack application to provide a unified calendar view. The app will feature **two-way synchronization** with external services like Google Calendar and Apple Calendar, allowing users to create, view, and manage all their events from a single interface. 
+* Developing a full-stack application to provide a unified calendar view. The app will feature **two-way synchronization** with external services like Google Calendar and Apple Calendar, allowing users to create, view, and manage all their events from a single interface.
+
+### 🎥 **Auto-Didact (AI Video Agent)**
+* **Tech Stack:** `FastAPI` `LangChain` `Next.js` `Supabase (pgvector)` `Groq/Llama 3`
+* Developing an autonomous content pipeline that transforms static documents (PDFs) into short-form educational videos. The application utilizes a **Retrieval-Augmented Generation (RAG)** architecture to read and understand user-uploaded sources, ensuring AI-generated scripts are factually accurate. The system orchestrates multiple AI agents to handle scriptwriting, voice synthesis (TTS), and programmatic video editing in a single workflow. 
 
 ---
 
