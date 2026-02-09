@@ -128,7 +128,7 @@
 
 ### 🎥 **Auto-Didact (AI Video Agent)**
 * **Tech Stack:** `FastAPI` `LangChain` `Next.js` `Supabase (pgvector)` `Groq/Llama 3`
-* Developing an autonomous content pipeline that transforms static documents (PDFs) into short-form educational videos. The application utilizes a **Retrieval-Augmented Generation (RAG)** architecture to read and understand user-uploaded sources, ensuring AI-generated scripts are factually accurate. The system orchestrates multiple AI agents to handle scriptwriting, voice synthesis (TTS), and programmatic video editing in a single workflow. 
+* Developing an autonomous content pipeline that transforms static documents (PDFs) into short-form educational videos. The application utilizes a **Retrieval-Augmented Generation (RAG)** architecture to read and understand user-uploaded sources, ensuring AI-generated scripts are factually accurate. The system orchestrates multiple AI agents to handle scriptwriting, text-to-speech (TTS), and programmatic video editing within a single workflow. 
 
 ---
 
