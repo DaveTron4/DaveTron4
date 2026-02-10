@@ -7,7 +7,7 @@
   Hi, I'm David Salas Carrascal
 </h1>
 <h3 align="center">
-  Full-Stack Software Engineer | Cybersecurity Professional
+  Full-Stack Software Engineer
 </h3>
 
 <p align="center">
