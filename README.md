@@ -113,7 +113,7 @@
 ### 🌱 **Room To Grow** (Hackathon) | [GitHub](https://github.com/DaveTron4/room-to-grow) | [Live Site](https://www.roomtogrow.fit)
 * **Tech Stack:** `React 19`, `TypeScript`, `Node.js`, `MongoDB`, `OpenRouter`, `Framer Motion`
 * Architected a full-stack AI tutoring platform integrating **OpenRouter** to aggregate 6+ Large Language Models (including Gemini & Claude) for dynamic model switching.
-* Implemented a content generation engine that parses chat context into structured **JSON** to automatically create personalized flashcards and quizzes for students.
+* Implemented a content generation engine that parses chat context into structured **JSON** to create personalized flashcards and quizzes for students automatically.
 * Integrated computer vision pipelines to analyze user-uploaded diagrams and provided **real-time streaming** responses to enhance the interactive learning experience.
 
 ### ✅ **TaskMate AI** | [GitHub](https://github.com/DaveTron4/taskmate-ai) | [Live Site](https://taskmate-ai-ef8u.onrender.com/)
@@ -125,6 +125,10 @@
 ---
 
 ## 🏗️ Currently Working On
+
+### 🔗 **Tether (Retail & Inventory CRM)**
+* **Tech Stack:** `Node.js` `Express` `TypeScript` `PostgreSQL` `Angular` `Docker`
+* Developing a comprehensive Point of Sale (POS) and Customer Relationship Management (CRM) system designed for independent telecom retailers. The application utilizes a **relational database architecture** to unify inventory tracking, subscription management, and sales reporting into a single platform. The system orchestrates complex workflows for **recurring billing**, **inventory depletion**, and **granular product tracking** (e.g., specific device compatibility vs. generic accessories), ensuring accurate financial reporting and stock control.
 
 ### 🎥 **Auto-Didact (AI Video Agent)**
 * **Tech Stack:** `FastAPI` `LangChain` `Next.js` `Supabase (pgvector)` `Groq/Llama 3`
