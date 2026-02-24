@@ -33,7 +33,7 @@
 - 🎓    **Education:** Senior in Computer Science at **Georgia State University**.
 - 💻    **Interests:** Full-Stack Software Engineering & Cybersecurity.
 - 🌱    **Currently:** Sharpening my skills in cloud security and advanced penetration testing techniques.
-- 💼    **Status:** **CodePath Tech Fellow** | Actively seeking **Full-Time** and **Internship** roles in Software Engineering.
+- 💼    **Status:** **Computer Science Tutor @ GSU** | Actively seeking **Full-Time** and **Internship** roles in Software Engineering.
 
 ---
 
