@@ -130,10 +130,6 @@
 * **Tech Stack:** `Node.js` `Express` `TypeScript` `PostgreSQL` `Angular` `Docker`
 * Developing a comprehensive Point of Sale (POS) and Customer Relationship Management (CRM) system designed for independent telecom retailers. The application utilizes a **relational database architecture** to unify inventory tracking, subscription management, and sales reporting into a single platform. The system orchestrates complex workflows for **recurring billing**, **inventory depletion**, and **granular product tracking** (e.g., specific device compatibility vs. generic accessories), ensuring accurate financial reporting and stock control.
 
-### 🎥 **Auto-Didact (AI Video Agent)**
-* **Tech Stack:** `FastAPI` `LangChain` `Next.js` `Supabase (pgvector)` `Groq/Llama 3`
-* Developing an autonomous content pipeline that transforms static documents (PDFs) into short-form educational videos. The application utilizes a **Retrieval-Augmented Generation (RAG)** architecture to read and understand user-uploaded sources, ensuring AI-generated scripts are factually accurate. The system orchestrates multiple AI agents to handle scriptwriting, text-to-speech (TTS), and programmatic video editing within a single workflow. 
-
 ---
 
 ## 📊 My GitHub Stats
